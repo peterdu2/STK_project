@@ -1,0 +1,194 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Textures for SuperTuxKart Assets
+Upstream-Contact:
+ Jean-Manuel "samuncle" Clémençon <sam.un@protonmail.com>
+ Joerg "hiker" Henrichs <henrichsjoerg@gmail.com>
+ Marianne "Auria" Gagnon <auria.mg@gmail.com>
+Source: https://supertuxkart.net
+License: Various
+
+Files: materials.xml
+Copyright: SuperTuxKart dev team
+License: CC-BY-SA 3.0
+Comment: Material data
+
+Files: coniferous_tree_alpha.jpg
+Copyright: Unknown
+License: Unknown
+
+Files: kiki.png kiki_colorization_mask.png konqi.jpg konqi_colorization_mask.png
+Copyright: Benau
+License: CC-BY-SA 3.0
+
+Files: ants.png jungleWater.png oceanicWater.png
+Copyright: Jean-Manuel Clémençon
+License: CC-BY-SA 3.0
+Comment:
+ Added by samuncle in 2013, jungleWater.png moved from cocoa temple, oceanicWater.png moved from abyss
+
+Files: astro_turf.jpg
+Copyright: Copyright 2013 Totoplus62
+License: public-domain CC0
+Comment: From https://forum.freegamedev.net/viewtopic.php?f=18&t=3774
+
+Files: gfx_leaf_b.png
+Copyright:
+ 2016 Sebastian "rubberduck" Platen
+ 2018 Sven Andreas Belting
+License: CC0
+Comment: Extracted from leaf_a.png in Black Forest, which was modified from rubberduck's original by Sven Andreas Belting.
+
+Files: nolok_character.png
+Copyright: Copyright 2009 Tobias "Tob" "Cheleb" Beyrer
+License: CC-BY-SA 3.0
+Comment: Originally part of Nolok kart
+
+Files:
+ hd_palmTreeBark_a_Albedo.png
+ hd_palmTreeBark_a_Normal.png
+ hd_palmTreeLeaf_a_Albedo.png
+ hd_palmTreeLeafDry_a_Albedo.png
+Copyright: Converted to albedo map by Jean-Manuel Clémençon, original work Copyright 2015 Oliver M-H
+License: CC-BY-SA 3.0
+Comment: https://www.blendswap.com/blends/view/83370
+
+Files:
+ hd_palmTreeLeaf_b_Albedo.png
+Copyright: Converted to albedo map by Jean-Manuel Clémençon, original work by Marianne Gagnon, made from public domain images from BurningWell, http://www.publicdomainpictures.net
+License: CC-BY-SA 4.0
+
+Files:
+ ants.png
+ stk_animalPig_a.png
+ stk_terminalCode_a.png
+ stk_transcriptDataSignal_a.png
+ stkflag_pumpkin_a.png
+ stklib_coniferSnow_a_low.png
+ stktex_puertoEncanto_a.png
+ stklib_jackOLantern_a.png
+ stklib_moonDecal_a.png
+ gfxGlow_generic_a_gloss.png
+ motif_gloss.png
+ stkflag_asianPaperLantern_a_gloss.png
+ stkflag_latexBluePinkPattern_a_gloss.png
+ stkflag_leatherPatern_gloss.png
+ stkflag_pumpkin_a_gloss.png
+ stktex_beachball_a_gloss.png
+ stktex_frozenWaterFall_a_glossy.png
+ stktex_generic_lava_gloss.png
+ stktex_generic_roadSnow_a_gloss.png
+ stktex_generic_rockA_gloss.png
+ stktex_generic_WoodB_gloss.png
+ stktex_planetEarth_a_gloss.png
+ stktex_snowRock_a_gloss.png
+ stktex_stonePurple_a_gloss.png
+ stktex_windowsSet_a_gloss.png
+ stk_futureYellowBox_a_gloss.png
+ stk_generic_brickA_gloss.png
+ stk_generic_ice_a_gloss.png
+ stk_generic_modernWindows_b_gloss.png
+ stk_generic_rock_a_gloss.png
+ stk_generic_snow_a_gloss.png
+ stk_greyMetal_a_gloss.png
+ stk_lightGreyMetal_a_gloss.png
+ stk_metalDoor_a_gloss.png
+ stk_mudpot_a_gloss.png
+ stk_solarPanel_gloss.png
+ trophy_glossmap.png
+ stk_futureYellowBox_a_Normal.png
+ stk_generic_bedRock_a_Normal.png
+ stk_generic_brickA_Normal.png
+ stk_generic_dirtRoad_a_Normal.png
+ stk_generic_grassB_Normal.png
+ stk_generic_ice_a_Normal.png
+ stk_generic_ironA_Normal.png
+ stk_generic_rock_a_Normal.png
+ stk_generic_snow_a_Normal.png
+ stk_greyMetal_a_Normal.png
+ stk_solarPanel_a_Normal.png
+ stktex_frozenWaterFall_a_Normal.png
+ stktex_generic_aztekWall_a_Normal.png
+ stktex_generic_cobbleStoneA_Normal.png
+ stktex_generic_lavaA_Normal.png
+ stktex_generic_roadSnow_a_Normal.png
+ stktex_generic_rockA_Normal.png
+ stktex_generic_WoodB_Normal.png
+ stktex_snowRock_a_Normal.png
+ stktex_windowsSet_a_Normal.png
+ gfx_detailmap_a.png
+ hd_roadMarking_a_mask.png
+ gfx_kartDirt_a_Albedo.png
+ gfx_kartDirt_a_Normal.png
+Copyright: Copyright 2017 Jean-Manuel Clémençon
+License: CC-BY-SA 3.0
+
+Files: 
+ stkcrowd_ghost_a.png
+Copyright: Copyright 2017 Auria
+License: CC-BY-SA 3.0
+
+Files: stktex_generic_bambooB.png
+Copyright:
+ Copyright 2014 Anon
+ Copyright 2014 Jean-Manuel Clémençon
+License: CC-BY-SA 4.0
+Comment: From https://forum.freegamedev.net/viewtopic.php?f=90&t=5726
+
+Files:
+ stk_generic_blackCeramic_a.png
+ stk_generic_pinkCeramic_a.png
+ stk_generic_redCeramic_a.png
+Copyright: Copyright 2014 Anon
+License: CC-BY-SA 4.0 CC-BY-SA 3.0 Unported
+Comment: From https://forum.freegamedev.net/viewtopic.php?f=90&t=5726
+
+Files: tapis.png stktex_gnuMeditation_a.png stktex_gnuMeditation_fur.png
+Copyright: Copyright 2009 Benjamin Arnaudet
+License: GPL ???
+Comment: Originally part of Gnu kart
+
+Files: dark-wall-wood.png
+Copyright:
+ Copyright 2008-2010 Ivar ten Cate <varivar@live.nl>
+ Copyright 2018 Sven Andreas Belting
+License: CC-BY-SA 3.0
+Comment: From Old Mine track (copyright info might not be correct), but colors adjusted/improved by Sven Andreas Belting
+
+Files: dark-wall-wood_nm.jpg
+Copyright: Copyright 2018 Sven Andreas Belting
+License: CC-BY-SA 4.0
+
+Files: explode.png
+Copyright: Copyright 2008-2010 MiniBjorn
+License: CC-BY-SA 3.0
+Comment: From License.txt
+
+Files: stkflag_nolokArmories_a.png
+Copyright: Copyright 2017 samuncle based on nolokicon.png by Anthony "yeKcim" Carré <yeknan.free.fr>
+License: GPL 2.0
+
+Files: stktex_monkey_a.png
+Copyright: Copyright 2011 Cédric "Céa" Archambault <https://plus.google.com/117805441573276168348>
+License: GPL ???
+
+Files: stktex_autumnLeaf_b.png
+Copyright: Copyright Unknown
+License: ????
+Comment:
+ A reverse image search shows that this texture is all over the place, but I can't find the
+ original author.
+
+Files: slipstream2.png slipstream_bonus.png
+Copyright: Copyright MiniBjorn (c), with modifications by Alayan
+License: CC-BY-SA 3.0
+
+Files:
+ stk_karstRock_a_nm.jpg
+ stklama_gravelSide_a_nm.jpg
+Copyright: Copyright 2018 Sven Andreas Belting
+License: CC-BY-SA 4.0
+
+Files:
+ grass2.jpg, grass2_nm.jpg
+Copyright: Christoph Egger <debian@christoph-egger.org>, Marianne Gagnon (Auria) and MiniBjorn
+License: CC-BY-SA 3.0
